@@ -1,0 +1,7 @@
+# ignore .pyc file
+*.pyc
+# ignore pycharm config file
+.idea/*
+# ignore mnist_png, digitals, res, seperated_png
+mnist_png/*
+digitals/*
